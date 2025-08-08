@@ -130,7 +130,7 @@ sudo apt-get install jupyter
     </script>
   </div>	
   ```
-
+ 
 - **删掉脚注的bar**：`_layouts/default.liquid`把定义脚注的bar的文件` {% include footer.liquid %}`给删了不include就行，layout就是管页面布局这个的
 
 ### 疑难杂症
