@@ -736,6 +736,10 @@ footer.sticky-bottom {
       margin-bottom: 1rem;
 
       .preview {
+        width: 100%;
+        max-width: 320px; /* 控制最大宽度 */
+        height: 90px;    /* 统一高度 */
+        overflow: hidden;
       }
 
       .abbr {
@@ -744,7 +748,7 @@ footer.sticky-bottom {
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
-          margin-bottom: 0.5rem;
+          margin-bottom: 0.01rem;
           color: var(--global-card-bg-color) !important;
 
           a {

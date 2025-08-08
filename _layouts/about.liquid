@@ -40,10 +40,17 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+
+    <!-- <h2>Openings</h2>
+    <p>
+      I’m looking for self-motivated Ph. D./M. S. students with solid background in programming and mathematics. I’m also looking for several PostDocs with strong research background in computer vision, image processing, and deep learning, to join my group. Please send me email if you have interest.
+    </p>-->
+
+
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
@@ -56,10 +63,12 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
+
+
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
@@ -76,5 +85,21 @@ layout: default
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
+
+    <h2 class="mt-4">Academic Service</h2>
+    <ul>
+      <li>Guest Editor for Remote Sensing.</li>
+      <li>Journal Reviewer for TPAMI, TIP, IJCV, ISPRS R&S, TGRS, TCSVT, TII, PR.</li>
+      <li>Conference Reviewer for CVPR, ECCV, ICCV, ICML, NeurIPS, AAAI, ICLR.</li>
+    </ul>
+
+    <br>
+    <div style="width: 380px; height: 90px; margin: 0 auto;">  
+      <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1f6294&w=a&t=tt&d=QsYwRxkSw7tD_Z207HseBeBR2zeE7dzDIBvYiWNWnCg&co=ffffff&ct=000000&cmo=eb0202&cmn=0fde0f'></script>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
   </article>
 </div>

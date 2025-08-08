@@ -6,4 +6,175 @@
   url: https://journals.aps.org/
 
 "Vision":
-  color: "#009f36"
+  color: "#A82E26"
+
+"IEEE TPAMI":
+  url: http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34
+  color: "#00369f"
+
+"IEEE TIP":
+  url: http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83
+  color: "#00369f"
+
+"IEEE TGRS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36
+  color: "#00369f"
+
+"IJCV":
+  url: https://link.springer.com/journal/11263
+  color: "#00369f"
+
+"CJE":
+  url: https://cje.ejournal.org.cn/
+  color: "#00369f"
+
+"IEEE TCSVT":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76
+  color: "#00369f"
+
+"IEEE TOG":
+  url: https://dl.acm.org/journal/tog
+  color: "#00369f"
+
+"PR":
+  url: https://www.sciencedirect.com/journal/pattern-recognition
+  color: "#00369f"
+
+"IEEE GRSL":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
+  color: "#00369f"
+
+"IEEE SPL":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97
+  color: "#00369f"
+
+"Neurocomputing":
+  url: https://www.sciencedirect.com/journal/neurocomputing
+  color: "#00369f"
+
+"JIG":
+  url: https://www.joig.net/
+  color: "#00369f"
+
+"ISPRS&RS":
+  url: https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing
+  color: "#00369f"
+
+"IEEE TMM":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046
+  color: "#00369f"
+
+"SCIS":
+  url: https://link.springer.com/journal/11432
+  color: "#00369f"
+
+"KBS":
+  url: https://www.sciencedirect.com/journal/knowledge-based-systems
+  color: "#00369f"
+
+"JSTSP":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690
+  color: "#00369f"
+
+"JSTAR":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443
+  color: "#00369f"
+
+"JMLR":
+  url: https://www.jmlr.org/
+  color: "#00369f"
+
+"PRL":
+  url: https://www.sciencedirect.com/journal/pattern-recognition-letters
+  color: "#00369f"
+
+"RS":
+  color: "#00369f"
+
+"IEEE TNNLS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
+  color: "#00369f"
+
+"IEEE TITS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979
+  color: "#00369f"
+
+"OE":
+  url: https://opg.optica.org/oe/home.cfm?utm_source=google&utm_medium=cpc&utm_keyword=&utm_device=c&matchtype=&location=1003571&utm_campaign=&gad_source=1&gclid=Cj0KCQiA4rK8BhD7ARIsAFe5LXKMcKPD4O7pE3DJFDtBMCVXHlJSTNMVqXoNcISTcZqzOg4H1Au-xP0aAp_AEALw_wcB
+  color: "#00369f"
+
+"AIS":
+  url: https://advanced.onlinelibrary.wiley.com/journal/26404567
+  color: "#00369f"
+
+"IEEE TCI":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852
+  color: "#00369f"
+
+"IETIP":
+  url: https://digital-library.theiet.org/journal/iet-ipr
+  color: "#00369f"
+
+
+
+
+"arXiv":
+  url: https://arxiv.org/list/cs.CV/recent
+
+
+"ICLR":
+  url: https://en.wikipedia.org/wiki/International_Conference_on_Learning_Representations
+  color: "#A82E26"
+
+"CVPR":
+  url: https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition
+  color: "#A82E26"
+
+"CVPRW":
+  color: "#A82E26"
+
+"ICCV":
+  url: https://en.wikipedia.org/wiki/International_Conference_on_Computer_Vision
+  color: "#A82E26"
+
+"ECCV":
+  url: https://en.wikipedia.org/wiki/European_Conference_on_Computer_Vision
+  color: "#A82E26"
+
+"ACM MM":
+  url: https://en.wikipedia.org/wiki/ACM_Multimedia
+  color: "#A82E26"
+
+"AAAI":
+  url: https://en.wikipedia.org/wiki/AAAI_Conference_on_Artificial_Intelligence
+  color: "#A82E26"
+
+"CICAI":
+  color: "#A82E26"
+
+"IJCAI":
+  url: https://en.wikipedia.org/wiki/International_Joint_Conference_on_Artificial_Intelligence
+  color: "#A82E26"
+
+"ICML":
+  url: https://en.wikipedia.org/wiki/International_Conference_on_Machine_Learning
+  color: "#A82E26"
+
+"NeurIPS":
+  url: https://en.wikipedia.org/wiki/Conference_on_Neural_Information_Processing_Systems
+  color: "#A82E26"
+
+"BMVC":
+  color: "#A82E26"
+
+"PRCV":
+  color: "#A82E26"
+
+"ICIP":
+  color: "#A82E26"
+
+"3DIMPVT":
+  color: "#A82E26"
+
+"PCM":
+  color: "#A82E26"
