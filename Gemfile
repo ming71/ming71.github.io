@@ -35,5 +35,4 @@ group :other_plugins do
     # gem 'terser'         # used by jekyll-terser
     # gem 'unicode_utils' -- should be already installed by jekyll
     # gem 'webrick' -- should be already installed by jekyll
-    gem 'faraday-retry'
 end
