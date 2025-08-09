@@ -15,7 +15,7 @@ git add .
 git commit -m 'u'
 git push origin gh-pages
 
-## ok的分支：d721fe3398cda65d6910da66b6f0a72e8ea58a90
+## ok的分支：version 1.0
 ```
 
 
@@ -144,9 +144,3 @@ sudo apt-get install jupyter
 ### TBD
 
 google_scholar: false先设置不搜索，不然太卡了，后面更新一下citation
-
-Qi的黑体去掉
-
-修改所有的paper link, pub的源文件上传，可以google drive(pdf, download,区分一下哪个是下载)
-
-怎么加CCFA的badge
