@@ -9,7 +9,6 @@ nav_order: 4
 
 ### Email
 chaser.ming@gmail.com
-chaser.ming@gmail.com
 
 
 ### Address
