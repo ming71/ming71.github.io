@@ -2,7 +2,7 @@
 
 ```
 wsl.exe -d Ubuntu
-cd /mnt/e/文件夹/MyBlogs/blog
+
 
 sudo bundle exec jekyll serve
 sudo bundle exec jekyll serve --livereload --watch
