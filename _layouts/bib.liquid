@@ -180,6 +180,15 @@
     {% if entry.additional_info %}
       {% capture entrytype %}{{ entrytype }}{{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
     {% endif %}
+    {% if entry.additional_info_emphasize %}
+      {% capture entrytype %}
+        {{ entrytype }}
+        <span style="color:#EF273E; font-weight:bold;">
+          {{ entry.additional_info_emphasize | markdownify | remove: '<p>' | remove: '</p>' }}
+        </span>
+      {% endcapture %}
+    {% endif %}
+
     {% capture hook_exists %}{% file_exists _includes/hook/bib.liquid %}{% endcapture %}
     {% if hook_exists == 'true' %}
       {% include hook/bib.liquid %}

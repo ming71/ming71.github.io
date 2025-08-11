@@ -5,9 +5,11 @@
 git add .
 git commit -m 'u'
 git push origin main
+
+
 git eval ming7
 
-## ok的分支：version update
+## ok的分支：version_update
 ## 未必ok的分支：u
 
 
@@ -128,6 +130,10 @@ sudo apt-get install jupyter
     - `website`: Adds a "Website" button redirecting to the specified link
 
     - You can implement your own buttons by editing the [\_layouts/bib.liquid](_layouts/bib.liquid) file.
+    
+    - **notes**：自加字段，放在badge后面如下（bib.liquid中搜notes可以定制该部分内容）<img src="https://raw.githubusercontent.com/ming71/pigo/pic/pic/image-20250811120747589.png" alt="image-20250811120747589" style="zoom:50%;" />
+    
+    - **additional_info**：放在期刊行作为信息补充
 
 - **新增修改首页内容**（增、减、顺序-不纳入bar/page）：首页布局全在`_layouts/about.liquid`，例如想新增一个openings，直接在`_layouts/about.liquid`的line45-47打开Openings的段落；再如想在最下面加小地图，就把地图文段复制到该文件的最后部分：
 
