@@ -144,3 +144,4 @@ sudo apt-get install jupyter
 ### TBD
 
 google_scholar: false先设置不搜索，不然太卡了，后面更新一下citation
+共一等的添加直接在paper.bib中的姓氏后添加†或者*
