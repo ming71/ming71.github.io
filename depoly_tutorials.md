@@ -1,6 +1,17 @@
 ### 调试与部署
 
 ```
+## 注意是传到main分支！
+git add .
+git commit -m 'u'
+git push origin main
+git eval ming7
+
+## ok的分支：version update
+## 未必ok的分支：u
+
+
+### 本地调试
 wsl.exe -d Ubuntu
 
 
@@ -9,15 +20,6 @@ sudo bundle exec jekyll serve --livereload --watch
 
 http://127.0.0.1:4000/al-folio/
 
-
-## 注意是传到main分支！
-git add .
-git commit -m 'u'
-git push origin main
-git eval ming7
-
-## ok的分支：version 1.0
-## 未必ok的分支：version 1.0
 ```
 
 
@@ -85,6 +87,8 @@ sudo apt-get install jupyter
 
   - **新增期刊**：`_data/venues`新增期刊的横幅bar类型（其实目前就红蓝对应会议期刊）
 
+  - 共一等的添加直接在paper.bib中的姓氏后添加†或者*
+
   - **首页论文作者显示上限**：`_config.yml`的`max_author_limit`
 
   - **首页论文的左侧缩略图尺寸修改**：`_layouts/bib.liquid`中`<div class="col col-sm-3 abbr">`调整3增大可以让preview png整体更大；如果在此基础上调整高度，在`_sass\_base.scss`的下面文段中调整`height`即可
@@ -146,4 +150,3 @@ sudo apt-get install jupyter
 ### TBD
 
 google_scholar: false先设置不搜索，不然太卡了，后面更新一下citation
-共一等的添加直接在paper.bib中的姓氏后添加†或者*
