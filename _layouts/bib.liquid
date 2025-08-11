@@ -240,9 +240,6 @@
           <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
         {% endif %}
       {% endif %}
-      {% if entry.award %}
-        | <font color="#EF273E">{{ entry.award }}</font>
-      {% endif %}
       {% if entry.video and site.enable_video_embedding %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Video</a>
       {% elsif entry.video %}
@@ -270,6 +267,9 @@
       {% endif %}
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+      {% endif %}
+      {% if entry.notes %}
+        | <font color="#EF273E"><strong>{{ entry.award }}</strong></font>
       {% endif %}
     </div>
     {% if site.enable_publication_badges %}

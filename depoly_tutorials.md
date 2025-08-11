@@ -13,9 +13,11 @@ http://127.0.0.1:4000/al-folio/
 ## 注意是传到main分支！
 git add .
 git commit -m 'u'
-git push origin gh-pages
+git push origin main
+git eval ming7
 
 ## ok的分支：version 1.0
+## 未必ok的分支：version 1.0
 ```
 
 
