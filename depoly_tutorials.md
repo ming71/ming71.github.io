@@ -133,7 +133,11 @@ sudo apt-get install jupyter
     
     - **notes**：自加字段，放在badge后面如下（bib.liquid中搜notes可以定制该部分内容）<img src="https://raw.githubusercontent.com/ming71/pigo/pic/pic/image-20250811120747589.png" alt="image-20250811120747589" style="zoom:50%;" />
     
-    - **additional_info**：放在期刊行作为信息补充
+    - **additional_info**：放在期刊行作为信息补充：<img src="https://raw.githubusercontent.com/ming71/pigo/pic/pic/image-20250811121121772.png" alt="image-20250811121121772" style="zoom:50%;" />
+    
+    - **additional_info_emphasize**：补充信息的红色加粗强调<img src="https://raw.githubusercontent.com/ming71/pigo/pic/pic/image-20250811130041418.png" alt="image-20250811130041418" style="zoom:50%;" />
+    
+    - 更多的字段查看bib.liquid中定位的entry.x，如果新加字段，直接加完后要在`_config.yml`中`filtered_bibtex_keywords`将其滤除不在bib中显示
 
 - **新增修改首页内容**（增、减、顺序-不纳入bar/page）：首页布局全在`_layouts/about.liquid`，例如想新增一个openings，直接在`_layouts/about.liquid`的line45-47打开Openings的段落；再如想在最下面加小地图，就把地图文段复制到该文件的最后部分：
 

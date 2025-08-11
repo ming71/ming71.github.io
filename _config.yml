@@ -304,6 +304,8 @@ filtered_bibtex_keywords:
     abbr,
     abstract,
     additional_info,
+    additional_info_emphasize,
+    notes,
     altmetric,
     annotation,
     arxiv,
