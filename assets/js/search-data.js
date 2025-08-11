@@ -371,7 +371,7 @@ ninja.data = [{
           title: '🎉 One paper is accepted by TGRS.',
           description: "",
           section: "News",},{id: "news-awarded-the-excellent-doctoral-dissertation-seed-fund-from-bit-优博育苗基金",
-          title: '🎉 Awarded the Excellent Doctoral Dissertation Seed Fund from BIT（优博育苗基金）.',
+          title: '🎉 Awarded the Excellent Doctoral Dissertation Seed Fund from BIT(优博育苗基金).',
           description: "",
           section: "News",},{id: "news-received-the-outstanding-doctoral-dissertation-award-from-bit-校优秀博士论文",
           title: '🎉 Received the Outstanding Doctoral Dissertation Award from BIT (校优秀博士论文).',
