@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Received the <b>Outstanding Doctoral Dissertation Award</b> from BIT (校优秀博士论文). 
+🎉 Received the <b>Outstanding Doctoral Dissertation Award</b> from BIT (校优秀博士学位论文). 
