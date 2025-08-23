@@ -1,3 +1,18 @@
+### Quick update
+
+##### 添加news
+
+- `_news`下面直接新建就行
+
+##### 添加publication
+
+- `paper.bib`下添加bibtex，然后根据需要设定`pdf`，`selected`，`code`，`bibtex_show`，`preview`，`html`，`abbr`相关字段（一一check）
+- 有添加的则在对应的路径`assets\img\publication_preview`以及`assets\pdf`下新增image和pdf
+
+##### git push
+
+- 直接`push.shell`更新就行
+
 ### 调试与部署
 
 ```
