@@ -176,4 +176,5 @@ sudo apt-get install jupyter
 
 ### TBD
 
-google_scholar: false先设置不搜索，不然太卡了，后面更新一下citation
+- google_scholar: false先设置不搜索，不然太卡了，后面更新一下citation
+- project可以借鉴：https://github.com/adaptivetokensampling/adaptivetokensampling.github.io/tree/main/assets
