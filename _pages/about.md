@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Professor
+subtitle: Associate Professor
 
 profile:
   align: right
@@ -29,7 +29,7 @@ latest_posts:
 
 [Google Scholar](https://scholar.google.com/citations?user=zQCpqs8AAAAJ&hl) &nbsp;&nbsp; [GitHub](https://github.com/ming71) &nbsp;&nbsp; [WeChat](assets\img\site\wechat.jpg)
 
-I am currently a professor (Ph.D. Supervisor) with the College of Computer Science, Beijing University of Technology. In 2024, I received the Ph.D. degree from Beijing Institute of Technology (BIT) under the guidance of Prof. [Lingjuan Miao](https://ac.bit.edu.cn/szdw/jsml/dhzdykzyjs1/f6bce95984dc4b34ada4be9101329eb3.htm). I received the B.S. degree in Automation from BIT in 2018. From 2022 to 2023, I conducted research as a visiting scholar in the GAIM Group and worked with Prof. [Aleksandra Pizurica](https://telin.ugent.be/~sanja/) at Ghent University (UGent), Belgium. 
+I am currently an associate professor (Ph.D. Supervisor) with the College of Computer Science, Beijing University of Technology. In 2024, I received the Ph.D. degree from Beijing Institute of Technology (BIT) under the guidance of Prof. [Lingjuan Miao](https://ac.bit.edu.cn/szdw/jsml/dhzdykzyjs1/f6bce95984dc4b34ada4be9101329eb3.htm). I received the B.S. degree in Automation from BIT in 2018. From 2022 to 2023, I conducted research as a visiting scholar in the GAIM Group and worked with Prof. [Aleksandra Pizurica](https://telin.ugent.be/~sanja/) at Ghent University (UGent), Belgium. 
 
 My research interests are focused on computer vision, remote sensing, IoT, edge computing, and LLM. 
 
