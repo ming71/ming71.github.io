@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 ### Email
-chaser.ming@gmail.com
+mingqi@bjut.edu.cn
 
 
 ### Address
