@@ -132,6 +132,8 @@ If the entry matches one of the combinations of the last names and the first nam
 
 There are several custom bibtex keywords that you can use to affect how the entries are displayed on the webpage:
 
+- type: formats are different for `@inproceedings` and `@article` 
+- `author`: style `Qi, Ming and Liuqian, Wang and xxx`, note that there should be `and` between names, and `,` between last and first name.
 - `abbr`: Adds an abbreviation to the left of the entry. You can add links to these by creating a venue.yaml-file in the \_data folder and adding entries that match.
 - `abstract`: Adds an "Abs" button that expands a hidden text field when clicked to show the abstract text
 - `altmetric`: Adds an [Altmetric](https://www.altmetric.com/) badge (Note: if DOI is provided just use `true`, otherwise only add the altmetric identifier here - the link is generated automatically)
