@@ -149,6 +149,7 @@ There are several custom bibtex keywords that you can use to affect how the entr
 - `slides`: Adds a "Slides" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
 - `supp`: Adds a "Supp" button to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
 - `website`: Adds a "Website" button redirecting to the specified link
+- `notes` and `highlights`: notes or highlights, eg `| <span style="margin-left: 4px; color:#EF273E; font-weight:bold;">{{ entry.highlights }}</span>`
 
 You can implement your own buttons by editing the [\_layouts/bib.liquid](_layouts/bib.liquid) file.
 
