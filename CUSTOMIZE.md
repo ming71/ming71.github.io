@@ -125,6 +125,7 @@ If the entry matches one form of the last names and the first names, it will be 
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 ```
+
 <!-- 
 @article{zhao2025chirplet,
   title={Chirplet Fourier Analysis Network for Cross-Scene Classification of Multisource Remote Sensing Data}, 
