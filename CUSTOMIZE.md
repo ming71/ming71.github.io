@@ -125,6 +125,26 @@ If the entry matches one form of the last names and the first names, it will be 
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 ```
+<!-- 
+@article{zhao2025chirplet,
+  title={Chirplet Fourier Analysis Network for Cross-Scene Classification of Multisource Remote Sensing Data}, 
+  author={Zhao, Xudong and Ming, Qi* and Yang, Yixiao and Hu, Wenshuai and Li, Wei and Tao, Ran},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  publisher={IEEE},
+  abbr={IEEE TGRS},
+  bibtex_show={true},
+  pdf={zhao2025chirplet.pdf},
+  html={https://ieeexplore.ieee.org/document/11270899},
+  selected={true},
+  notes={(SCI Q1 Top)},
+  preview={zhao2025chirplet.png}
+}
+
+ -->
 
 If the entry matches one of the combinations of the last names and the first names, it will be highlighted and linked to the url provided. Note that the keys **MUST BE** lower cased and **MUST NOT** contain accents. This is because the keys are used to match the last names in the BibTeX entries, considering possible variations (see [related discussion](https://github.com/alshedivat/al-folio/discussions/2213)).
 
