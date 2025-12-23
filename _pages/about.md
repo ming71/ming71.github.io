@@ -6,7 +6,7 @@ subtitle: Associate Professor
 
 profile:
   align: right
-  image: site/portrait2.jpg
+  image: site/portrait.png
   image_circular: true # crops the image to make it circular
   more_info: >
 
