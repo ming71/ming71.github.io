@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Awarded the <b>CSIT Doctoral Dissertation Award (中国惯性技术学会优博)</b>.
+🎉 Awarded the <b>CSIT Outstanding Doctoral Dissertation Award (中国惯性技术学会优博)</b>.
