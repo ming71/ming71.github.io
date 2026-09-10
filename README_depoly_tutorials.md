@@ -22,7 +22,9 @@ ssh-keygen -t ed25519 -C "chaser.ming@gmail.com"
 cat ~/.ssh/id_ed25519.pub
 把整行内容复制到 GitHub：Settings → SSH and GPG keys → New SSH key
 ssh -T git@github.com 输入yes
-### 调试与部署
+
+
+### 本地调试与部署
 
 ```
 ## 注意是传到main分支！
