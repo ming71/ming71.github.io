@@ -33,6 +33,8 @@ I am currently a tenure-track professor (Ph.D. Supervisor) with the College of C
 
 My research interests are focused on computer vision, remote sensing, multimodality learning, VLM, and edge intelligence. 
 
+欢迎有志从事学术或者对科研感兴趣的同学报考研究生，同时课题组常年开放本科生实习，欢迎联系！
+
 
 
 
