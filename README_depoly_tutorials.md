@@ -11,8 +11,17 @@
 
 ##### git push(非本地部署)
 
-
-
+###### Git登录
+git config --global user.name "ming71"
+git config --global user.email "chaser.ming@gmail.com"
+git config --global user.name
+git config --global user.email
+git commit -m "device update"
+###### ssh key 
+ssh-keygen -t ed25519 -C "chaser.ming@gmail.com"
+cat ~/.ssh/id_ed25519.pub
+把整行内容复制到 GitHub：Settings → SSH and GPG keys → New SSH key
+ssh -T git@github.com 输入yes
 ### 调试与部署
 
 ```
